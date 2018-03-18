@@ -1,0 +1,2 @@
+# schoolmanagementsystem
+School apllication
